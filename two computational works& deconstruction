@@ -1,2 +1,57 @@
-Animoji: uses flood illuminator, infrared camera, front-facing camera, and dot projector to capture project and analyze 30,000 dots across user's visage and muscle movementsto create a high-resolution map of his/her facial features. 
+Animoji: uses flood illuminator, infrared camera, front-facing camera, and dot projector to capture project and analyze 30,000 dots across user's visage and muscle movements to create a high-resolution map of his/her facial features. 
 Tinder: uses appearance, location, past swipings and age preferences as mathematical systems for pairing people up.
+
+
+Animoji:
+Data/
+motion tracking
+shape of facial features
+color of facial features
+position
+
+render/
+color
+skin
+haristyle
+brows
+eyes
+head
+nose
+mouth
+ears
+facial hair
+eyewear
+headwear
+
+stimulation/
+facial features changing
+facial expression changing
+
+Event/
+animoji changes according to settings
+personal animoji is created
+animoji follows real-time movements
+
+
+Update Tinder Profile:
+Data/
+photo
+about me
+job title
+company
+school
+living in
+snapchat
+instagram
+spotify
+
+render/
+profile preview
+
+stimulation/
+profile information&layout
+
+event/
+profile is updated
+
+
